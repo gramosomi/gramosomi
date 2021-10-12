@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gramosomi
+- 🌱 I’m currently learning Computer Science and engineering at universty of Minho
+- 📫 How to reach me miguelafonsogramoso@gmail.com
