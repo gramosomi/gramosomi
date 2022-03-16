@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @gramosomi
-- 🌱 I’m currently learning Engenharia informática at universty of Minho
+- 🌱 I’m currently learning software engineer at universty of Minho
 - 📫 How to reach me miguelafonsogramoso@gmail.com
+
